@@ -1,0 +1,11 @@
+#btn-login {
+  margin-top: 15px;
+}
+#main-footer {
+  position: fixed;
+  height: 30px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}

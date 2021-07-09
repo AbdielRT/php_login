@@ -1,5 +1,5 @@
-<div class="row">
-    <div class="col-sm-10 col-md-4 col-lg-4">
+<div class="row justify-content-center">
+    <div class="col-sm-8 col-md-4 col-lg-4">
       <form action='register.php' method='post'>
         <fieldset>
             <legend>Sign Up to MyService</legend>

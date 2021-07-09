@@ -21,8 +21,8 @@
 
 ?>
 
-<div class="row">
-    <div class="col-sm-10 col-md-4 col-lg-4">
+<div class="row justify-content-center">
+    <div class="col-sm-8 col-md-4 col-lg-4">
       <form action='process.php' method='post'>
         <fieldset>
             <legend>Log In to MyService</legend>
@@ -37,7 +37,7 @@
                 <input type="password" class="form-control" id="InputPassword" placeholder="Password" name='password' required>
             </div>
             <div class="d-grid gap-2">
-                <input type="submit" class="btn btn-primary" name="login" value="Log In">
+                <input type="submit" class="btn btn-primary" id='btn-login' name="login" value="Log In">
             </div>
         </fieldset>
       </form>
